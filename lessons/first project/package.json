@@ -1,0 +1,23 @@
+{
+  "name": "first-project",
+  "version": "1.0.0",
+  "description": "first node.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo no test",
+    "start": "index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/subash1706/node.git"
+  },
+  "keywords": [
+    "node"
+  ],
+  "author": "subash",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/subash1706/node/issues"
+  },
+  "homepage": "https://github.com/subash1706/node#readme"
+}
